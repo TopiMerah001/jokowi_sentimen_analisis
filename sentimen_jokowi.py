@@ -513,7 +513,7 @@ def main():
 
     
     # Untuk penggunaan dengan API real
-    analyzer.collect_youtube_data(api_key="AIzaSyAnKKKIz0l1wa4ZEtcEtPdmJMMtMxYw1Pw")
+    analyzer.collect_youtube_data(api_key="Ganti API yutub Kalian")
     analyzer.collect_news_data()
     
     # Proses semua data
